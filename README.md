@@ -1,5 +1,8 @@
 # dev-site
 
+This is a site for studies and testing in vue.<br>
+The project follows a <a href="https://www.youtube.com/watch?v=kmsM_hHrDHE">tutorial</a> for beginners in vue.
+
 ## Project setup
 ```
 npm install
